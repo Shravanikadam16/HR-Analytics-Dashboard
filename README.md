@@ -12,3 +12,4 @@ Interactive HR analytics dashboard built in Power BI. Tracking attrition, income
 - DAX & Power Query
 ## 📁 Download
 You can download the Power BI file from this repository:
+[HR Dataset.pbix]
